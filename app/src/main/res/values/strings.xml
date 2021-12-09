@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">3rd_lesson_android_intensive_andersen</string>
+    <string name="_1st_task">1st task</string>
+    <string name="_2nd_task">2nd task</string>
+    <string name="austria">Austria</string>
+    <string name="poland">Poland</string>
+    <string name="columbia">Columbia</string>
+    <string name="italy">italy</string>
+    <string name="madagascar">Madagascar</string>
+    <string name="thailand">Thailand</string>
+    <string name="denmark">Denmark</string>
+    <string name="switzerland">Switzerland</string>
+    <string name="enter_url_of_img">Enter URL of IMG</string>
+</resources>
