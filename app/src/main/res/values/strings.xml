@@ -11,4 +11,5 @@
     <string name="denmark">Denmark</string>
     <string name="switzerland">Switzerland</string>
     <string name="enter_url_of_img">Enter URL of IMG</string>
+    <string name="uploadimage">Upload Image</string>
 </resources>
